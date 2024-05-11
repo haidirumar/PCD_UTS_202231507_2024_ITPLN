@@ -40,10 +40,6 @@ import matplotlib.pyplot as plt
 
 ![App Screenshot](./Screenshots/original_image.png)
 
-- ini gambar original dengan cara menampilkannya code sebagai berikut :
-
-![App Screenshot](./Screenshots/code_original_image.png)
-
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Ini membuat sebuah figure baru untuk menampung plot. figsize=(30, 8) menentukan ukuran figure dalam satuan inch. Ukuran tersebut adalah 30x8 inch.
 
@@ -61,10 +57,6 @@ plt.show(): Ini menampilkan plot yang telah dibuat.
 ## Deteksi warna biru
 
 ![App Screenshot](./Screenshots/deteksi_warna_biru.png)
-
-- ini gambar deteksi warna biru dengan cara menampilkannya code sebagai berikut :
-
-![App Screenshot](./Screenshots/code_deteksi_warna_biru.png)
 
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Seperti sebelumnya, ini membuat sebuah figure baru dengan ukuran 30x8 inch.
