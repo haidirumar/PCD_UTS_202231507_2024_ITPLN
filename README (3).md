@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 3. numpy as np: NumPy untuk komputasi numerik.
 
 - membaca data gambar dengan Kodingan dibawah ini :
-  img = cv2.imread('gambar_nama.jpg')
+  img = cv2.imread('IMAGE_UTS.jpg')
   img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
   hsv_img = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 
