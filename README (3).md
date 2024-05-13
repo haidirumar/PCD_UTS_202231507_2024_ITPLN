@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
   img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
   hsv_img = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 
--	Koding Diatas bertujuan untuk membaca file gambar "parking_lot.jpeg" dan menyimpannya dalam variabel img menggunakan OpenCV.
+-	Koding Diatas bertujuan untuk membaca file gambar "IMAGE_UTS.jpg" dan menyimpannya dalam variabel img menggunakan OpenCV.
 
 - Kalau cv2.cvtColor(img, cv2.COLOR_BGR2RGB): Ini adalah fungsi yang digunakan untuk mengubah ruang warna gambar. gambar yang dibaca sebelumnya (img) dikonversi dari format BGR (Blue-Green-Red) ke format RGB (Red-Green-Blue). Karena OpenCV membaca gambar dalam format BGR secara default, tetapi dalam banyak kasus, kita lebih suka menggunakan format RGB.
 
