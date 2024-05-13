@@ -78,8 +78,6 @@ plt.show(): Menampilkan plot yang telah dibuat.
 
 - ini gambar deteksi warna biru dengan cara menampilkannya code sebagai berikut :
 
-![App Screenshot](./Screenshots/code_deteksi_warna_merah.png)
-
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Membuat sebuah figure baru dengan ukuran 30x8 inch, seperti sebelumnya.
 
@@ -99,8 +97,6 @@ plt.show(): Menampilkan plot yang telah dibuat.
 ![App Screenshot](./Screenshots/deteksi_warna_hijau.png)
 
 - ini gambar deteksi warna biru dengan cara menampilkannya code sebagai berikut :
-
-![App Screenshot](./Screenshots/code_deteksi_warna_hijau.png)
 
 ### Penjelasan
 plt.figure(figsize=(30, 8)): Membuat sebuah figure baru dengan ukuran 30x8 inch.
