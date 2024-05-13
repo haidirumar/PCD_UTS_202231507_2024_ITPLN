@@ -129,7 +129,7 @@ plt.show(): Menampilkan plot yang telah dibuat.
   
 
 ## Hasil Nilai Ambang
-  ![App Screenshot](./Screenshots/hasil_ambang.png)
+  ![App Screenshot](./Screenshots/nilai_ambang.png)
 
 ### Penjelasan
 
