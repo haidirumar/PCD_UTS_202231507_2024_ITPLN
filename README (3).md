@@ -147,8 +147,6 @@ print("Ambang Batas Terkecil hingga Terbesar:"): Mencetak pesan untuk memberi ta
 print(sorted_thresholds): Mencetak ambang batas yang telah diurutkan.
 
 ## Histogram
-untuk menampilkan histogram pada gambar cukup lakukan code pada gambar dibawah ini lalu hasilnya kan seperti ini :
-
 ### Hasil Histogram
 ![App Screenshot](./Screenshots/histogram.png)
 
